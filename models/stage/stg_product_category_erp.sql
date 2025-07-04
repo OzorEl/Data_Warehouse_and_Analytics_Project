@@ -1,5 +1,5 @@
 SELECT
-    ID AS ProductID,
+    ID AS Product_key,
     CAT AS Category,
     SUBCAT AS Subcategory,
     MAINTENANCE
